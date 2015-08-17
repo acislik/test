@@ -1,6 +1,11 @@
 My README
 =========
 
+This is a new feature
+---------------------
+1 new
+1 feature
+
 Yeah
 ----
 
